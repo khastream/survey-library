@@ -15,7 +15,7 @@
     "survey-core": "../../survey-core/build",
     "survey-vue3-ui": "../build",
     "surveyjs-widgets": "^1.9.40",
-    "vue": "3.4.19",
+    "vue": "3.5.32",
     "vue-router": "^4.2.2"
   },
   "devDependencies": {
